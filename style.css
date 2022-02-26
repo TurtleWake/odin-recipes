@@ -1,0 +1,7 @@
+.header, #top{
+    background-color: red;
+}
+
+p, ol {
+    background-color: rgba(252, 128, 128, 0.527);
+}
